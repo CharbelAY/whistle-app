@@ -1,9 +1,9 @@
 .card-container{
     box-shadow:-10px 0px 10px grey;;
-    border-radius: 2rem;
+    border-radius: 0.3rem;
     border-style: solid;
     border-width: thin;
-    height: 10rem;
+    height: 12rem;
     padding: 1rem;
 }
 

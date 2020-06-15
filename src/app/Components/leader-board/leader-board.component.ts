@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class LeaderBoardComponent implements OnInit {
 
+  users = [1, 2, 3, 4, 5, 6, 7, 8];
+
   constructor() { }
 
   ngOnInit(): void {

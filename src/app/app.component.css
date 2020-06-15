@@ -5,17 +5,18 @@
 
 #Filtering{
     border-style: solid;
-    height: 40rem;
+    height: 50rem;
 }
 
 #WhistleCards{
     border-style: solid;
-    height: 40rem;
+    height: 50rem;
+    overflow: scroll;
 }
 
 #Ranking{
     border-style: solid;
-    height: 40rem;
+    height: 50rem;
 }
 
 #Footer{
