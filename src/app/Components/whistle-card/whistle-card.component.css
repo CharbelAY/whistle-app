@@ -1,0 +1,20 @@
+.card-container{
+    box-shadow:-10px 0px 10px grey;;
+    border-radius: 2rem;
+    border-style: solid;
+    border-width: thin;
+    height: 10rem;
+    padding: 1rem;
+}
+
+.dot{
+    height: 0.75rem;
+    width: 0.75rem;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.title{
+    font-size: small;
+}
